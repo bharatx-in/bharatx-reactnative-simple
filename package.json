@@ -1,6 +1,6 @@
 {
   "name": "@bharatx/bharatx-reactnative-simple",
-  "version": "1.0.1-release1",
+  "version": "1.0.2-release1",
   "description": "Simple Tier of BharatX&amp;#39;s SDKs in React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -63,6 +63,7 @@
     "typescript": "^3.8.3"
   },
   "peerDependencies": {
+    "@bharatx/bharatx-reactnative-securityhelpers": "1.0.3-release1",
     "react": "*",
     "react-native": "*"
   },
